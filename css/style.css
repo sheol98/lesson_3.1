@@ -1,0 +1,72 @@
+
+/* * {
+	color: red;
+} */
+
+/* div{
+	color: blue;
+} */
+
+/* mark{
+	background-color: red;
+} */
+h1{
+	background-color: teal;
+}
+
+.nav{
+	background-color: blanchedalmond;
+}
+
+li a{
+	color: red;
+}
+
+.title{
+	background-color: palevioletred;
+}
+
+#one{
+	background-color: red;
+}
+
+.two{
+	background-color: blue;
+}
+.two h2{
+	background-color: yellow;
+	color: firebrick;
+}
+
+.two p{
+	background-color: green;
+}
+
+.three,
+.four{
+	background-color: aquamarine;
+}
+
+.one p{
+	color: antiquewhite;
+}
+
+.five{
+	background-color: #cf6d6d;
+}
+
+.five > p{
+	color: aliceblue;
+}
+
+.five ~ p{
+	color: red;
+}
+
+.five + p{
+	color: green;
+}
+
+.five ~ a{
+	background-color: aqua;
+}
